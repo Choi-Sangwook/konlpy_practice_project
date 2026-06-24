@@ -1,0 +1,30 @@
+# python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+.env
+
+# PyCharm
+.idea/
+
+# Dataset
+*.csv
+*.xlsx
+*.json
+
+# Model
+*.pth
+*.pt
+*.h5
+*.keras
+
+# os
+.DS_Store
+Thumbs.db
+
+# 그 외 안올릴 파일들 쭉 나열
+font/
+data/
+images/
